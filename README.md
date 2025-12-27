@@ -1,4 +1,4 @@
-**Лабораторная 1-2**
+  - **Лабораторная 1-2**
   - https://maymay940.github.io/web-laba/Калькулятор/index.html
   - **Лабораторная 3**
   - https://maymay940.github.io/web-laba/лабораторная%203/index.html
