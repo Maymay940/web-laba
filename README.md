@@ -1,4 +1,8 @@
-https://maymay940.github.io/web-laba/%D0%9A%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80/index.html
-https://maymay940.github.io/web-laba/%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%203/index.html
-https://maymay940.github.io/web-laba/%D0%BB%D0%B0%D0%B1%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%204/index.html
-https://maymay940.github.io/web-laba/%D0%BB%D0%B0%D0%B1%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%205/index.html
+**Лабораторная 1-2**
+https://maymay940.github.io/web-laba/Калькулятор/index.html
+**Лабораторная 3**
+https://maymay940.github.io/web-laba/лабораторная%203/index.html
+**Лабораторная 4**
+https://maymay940.github.io/web-laba/лабораторная%204/index.html
+**Лабораторная 5**
+https://maymay940.github.io/web-laba/лабораторная%205/index.html
